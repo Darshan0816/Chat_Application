@@ -1,0 +1,32 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darshan0816/Chat_App.git"
+  },
+  "author": "Darshan Paithankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darshan0816/Chat_App/issues"
+  },
+  "homepage": "https://github.com/Darshan0816/Chat_App#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "framer-motion": "^5.5.5",
+    "mongoose": "^6.1.4",
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "description": ""
+}
